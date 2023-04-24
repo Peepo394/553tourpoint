@@ -6,7 +6,7 @@ var bkktourpoint = {
         "properties": {
           "name": "วัดพระแก้ว",
           "type": "Culture",
-          "level": 9
+          "level": "🍉🍉🍉🍉"
         },
         "geometry": {
           "coordinates": [
@@ -21,7 +21,7 @@ var bkktourpoint = {
         "properties": {
           "name": "ไอคอนสยาม",
           "type": "Special",
-          "level": 8
+          "level": "🍉🍉🍉"
         },
         "geometry": {
           "coordinates": [
@@ -36,7 +36,7 @@ var bkktourpoint = {
         "properties": {
           "name": "เยาราช",
           "type": "Special",
-          "level": 7
+          "level": "🍉🍉"
         },
         "geometry": {
           "coordinates": [
@@ -51,7 +51,7 @@ var bkktourpoint = {
         "properties": {
           "name": "สวนลุมพินี",
           "type": "Natural",
-          "level": 10
+          "level": "🍉🍉🍉🍉🍉"
         },
         "geometry": {
           "coordinates": [
@@ -66,7 +66,7 @@ var bkktourpoint = {
         "properties": {
           "name": "สวนป่าเบญจกิติ",
           "type": "Natural",
-          "level": 10
+          "level": "🍉🍉🍉🍉🍉"
         },
         "geometry": {
           "coordinates": [
@@ -81,7 +81,7 @@ var bkktourpoint = {
         "properties": {
           "name": "ซาฟารีเวิลด์",
           "type": "Special",
-          "level": 8
+          "level": "🍉🍉🍉"
         },
         "geometry": {
           "coordinates": [
@@ -96,7 +96,7 @@ var bkktourpoint = {
         "properties": {
           "name": "มิวเซียมสยาม",
           "type": "Special",
-          "level": 7
+          "level": "🍉🍉"
         },
         "geometry": {
           "coordinates": [
@@ -111,7 +111,7 @@ var bkktourpoint = {
         "properties": {
           "name": "ตลาดนัดจตุจักร",
           "type": "Special",
-          "level": 8
+          "level": "🍉🍉🍉"
         },
         "geometry": {
           "coordinates": [
@@ -126,7 +126,7 @@ var bkktourpoint = {
         "properties": {
           "name": "สยาม",
           "type": "Special",
-          "level": 9
+          "level": "🍉🍉🍉🍉"
         },
         "geometry": {
           "coordinates": [
@@ -141,7 +141,7 @@ var bkktourpoint = {
         "properties": {
           "name": "วัดอรุณราชวรารามราชวรมหาวิหาร",
           "type": "Culture",
-          "level": 10
+          "level": "🍉🍉🍉🍉🍉"
         },
         "geometry": {
           "coordinates": [
